@@ -1,4 +1,4 @@
-# Hello, my name is Yúri de Sousa Almeida
+# Welcome, my name is Yúri.
 ## Back-end
 ## Languages under study: PHP, Python, Java
 
