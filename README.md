@@ -9,14 +9,14 @@ class Pessoa{
     public $nome;
     public $universidade;
     public $curso;
-    public $formacao;
+    public $tecnico;
     
 }
 $eu = new Pessoa();
 $eu->nome = "Yúri de Sousa Almeida";
 $eu->universidade = "Universidade Federal do Ceará - UFC";
 $eu->curso = "Ciência da Computação";
-$eu->formacao = "Técnico em Informática";
+$eu->tecnico = "Técnico em Informática";
 
 ?>
 
