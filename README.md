@@ -24,11 +24,11 @@ $eu->tecnico = "Técnico em Informática";
 ---
 
 ## Minhas Hard Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,python,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,python,mysql,aws)](https://skillicons.dev)
 
 
 ## Em estudo:
-[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,linux)](https://skillicons.dev)
 
 ---
 
